@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.vertical-input-range {
+    writing-mode: vertical-rl;
+    direction: rtl;
+    width: 5px;
+    height: 100px;
+}
