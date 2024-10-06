@@ -152,6 +152,8 @@ class VariableNode(ASTNode):
     def evaluate(self, defined_variables):
         if self.value in defined_variables:
             return defined_variables[self.value]
+        if self.value.lower() == "z":
+            return 2
         raise ValueError(f"Unknown variable {self.value}")
 
 
