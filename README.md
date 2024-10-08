@@ -120,7 +120,7 @@ transforms.Compose([
 
 <details>
 <summary>Demo</summary>
-![demo.mp4](resources%2Fdemo.mp4)
+![demo.mp4](resources/demo.mp4)
 </details>
 
 # Important
