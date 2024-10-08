@@ -120,7 +120,11 @@ transforms.Compose([
 
 <details>
 <summary>Demo</summary>
-![demo.mp4](resources%2Fdemo.mp4)
+
+
+https://github.com/user-attachments/assets/a855a0c5-57bf-4282-a8d5-b5a875ab83a4
+
+
 </details>
 
 # Important
