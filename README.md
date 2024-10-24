@@ -3,6 +3,8 @@
 A smart canvas with math calculator. It still in progresses a lot can be done like enhance the model,...etc.
 <hr>
 
+## I BELIEVE THIS WILL BE UNMAINTANED FOR A WHILE
+Unfortunately, The drive that contains the model had a failure and I cannot access it RN, and I don't have enough time to train again.
 # Structure
 
 The tool can be split up to
